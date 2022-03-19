@@ -1,5 +1,5 @@
-extern crate diesel_demo;
 extern crate diesel;
+extern crate diesel_demo;
 
 use self::diesel::prelude::*;
 use self::diesel_demo::*;
